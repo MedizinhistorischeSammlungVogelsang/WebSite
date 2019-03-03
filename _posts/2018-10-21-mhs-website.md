@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Willkommen auf der Website der MHS
-image: /img/mhs-logo/icon-vogelsang-turm.png
+image: img/mhs-logo/icon-vogelsang-turm.png
 published: true
 ---
 
