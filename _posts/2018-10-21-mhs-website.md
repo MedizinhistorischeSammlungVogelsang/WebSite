@@ -6,4 +6,3 @@ published: true
 ---
 
 Die Website befindet sich noch im Aufbau. Vielen Dank für Ihre Geduld. 
-

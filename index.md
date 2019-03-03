@@ -7,11 +7,21 @@ use-site-title: true
 
 <img src="img/mhs/klinik-vogelsang-gemaelde-kh-leue-1988.png" />
 
+Die Medizinhistorische Sammlung Gommern-Vogelsang e.V. wurde 2002 gegründet. Die Vereinsmitglieder bestehen aus medizinischem und verwaltungstechnischem Krankenhauspersonal, ehemaligen Angestellten und Mitarbeitern, sowie interessierten Laien. Sie haben es sich zur Aufgabe gemacht die Geschichte der Medizin sowie der ehemaligen Heilstätte zu bewahren. Das Anliegen der Medizinhistorischen Sammlung besteht in der Sammlung und Präsentation von Gerätschaften, Literaturbeiträgen, Bilddokumenten und mündlichen Überlieferungen zur wechselvollen Geschichte der ehemaligen Lungenheilstätte für Frauen und Mädchen und der derzeitigen Helios Fachklinik für Rheumatologie, Anästhesie, Orthopädie und Schmerztherapie Gommern-Vogelsang.
+
+Die Ausstellung befindet sich in den Vereinsräumen im Wirtschaftsgebäude unter dem Speisesaal des Fachkrankenhauses und ist über eine Außentreppe er erreichen.
+
+Öffnungszeiten der Ausstellung: Montag 14.00 Uhr bis 16.00 Uhr.
+
+Für Interessierte ist die Besichtigung auch außerhalb dieser Zeit möglich. Dazu wird um telefonische Voranmeldung der Prof. Dr. Keitel unter 0391 9960101 gebeten.
+
+## Neuigkeiten
+
 <div class="posts-list">
-  {% for post in paginator.posts %}
+  {% for post in site.posts %}
   <article class="post-preview">
     <a href="{{ post.url | prepend: site.baseurl }}">
-	  <h2 class="post-title">{{ post.title }}</h2>
+	  <h4 class="post-title">{{ post.title }}</h4>
 
 	  {% if post.subtitle %}
 	  <h3 class="post-subtitle">
@@ -58,18 +68,3 @@ use-site-title: true
    </article>
   {% endfor %}
 </div>
-
-{% if paginator.total_pages > 1 %}
-<ul class="pager main-pager">
-  {% if paginator.previous_page %}
-  <li class="previous">
-    <a href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}">&larr; Newer Posts</a>
-  </li>
-  {% endif %}
-  {% if paginator.next_page %}
-  <li class="next">
-    <a href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}">Older Posts &rarr;</a>
-  </li>
-  {% endif %}
-</ul>
-{% endif %}
