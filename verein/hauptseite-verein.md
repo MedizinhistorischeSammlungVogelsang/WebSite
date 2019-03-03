@@ -6,7 +6,7 @@ subtitle: Medizinhistorische Sammlung Gommern-Vogelsang e.V.
 
 ### Medizinhistorische Sammlung Gommern-Vogelsang e.V.
 
-<img src="/img/mhs/sophie-von-boetticher.png" 
+<img src="../../img/mhs/sophie-von-boetticher.png" 
      title="Sophie von Boetticher (1851-1939)"
      align="right" width="30%" />
 Die Medizinhistorische Sammlung (MHS) Gommern-Vogelsang e.V. hat jetzt 35 Mitglieder. 
@@ -25,7 +25,7 @@ Verein auch finanziell.
 
 ### Archiv der Deutschen Gesellschaft für Rheumatologie
 
-<img src="/img/mhs/prof-dr-fritz-schilling-mainz.png" 
+<img src="../../img/mhs/prof-dr-fritz-schilling-mainz.png" 
      title="Prof. Dr. Fritz Schilling (Mainz)"
      align="right" width="30%" />
 
@@ -39,7 +39,7 @@ Die in Vogelsang erfassten ca. 2000 Titel rheumatologischer Texte werden im Inte
 
 ### Ziele
 
-<img src="/img/mhs/raum-2-virtrinen.png" 
+<img src="../../img/mhs/raum-2-virtrinen.png" 
      title="Ausstellungsvitrinen im Raum 2"
      align="right" width="30%" />
 

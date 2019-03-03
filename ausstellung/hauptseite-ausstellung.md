@@ -29,12 +29,12 @@ Einzelheiten können über die o.g. Rufnummer vereinbart werden.
 
 ### Objekte
 
-![Instrumentarium für Thorakoskopie und Thorakokaustik als DRGM-Patent von 1938](/img/mhs/instrumentarium-thorakoskopie-1938.png)
+![Instrumentarium für Thorakoskopie und Thorakokaustik als DRGM-Patent von 1938](../../img/mhs/instrumentarium-thorakoskopie-1938.png)
 > Instrumentarium für Thorakoskopie und Thorakokaustik als DRGM-Patent von 1938
 
-![Abbildung aus einem 1820 erschienenen Werk über die rheumatische Herzbeutelentzündung](/img/mhs/herzbeutelentzündung-1820.png)
+![Abbildung aus einem 1820 erschienenen Werk über die rheumatische Herzbeutelentzündung](../../img/mhs/herzbeutelentzündung-1820.png)
 > Abbildung aus einem 1820 erschienenen Werk über die rheumatische Herzbeutelentzündung
 
-![Hände einer Patientin mit rheumatoider Arthritis](/img/mhs/haende-rheumatoider-arthritis.png)
+![Hände einer Patientin mit rheumatoider Arthritis](../../img/mhs/haende-rheumatoider-arthritis.png)
 > Hände einer Patientin mit rheumatoider Arthritis
 
