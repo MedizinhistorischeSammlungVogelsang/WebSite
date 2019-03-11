@@ -9,9 +9,8 @@ subtitle: Medizinhistorische Sammlung Gommern-Vogelsang e.V.
 <img src="../../img/mhs/sophie-von-boetticher.png" 
      title="Sophie von Boetticher (1851-1939)"
      align="right" width="30%" />
-Die Medizinhistorische Sammlung (MHS) Gommern-Vogelsang e.V. hat jetzt 35 Mitglieder. 
 
-Seit ihrem Bestehen 2002 wurden Gerätschaften, Literatur und Bilddokumente aus der  Zeit der Gründung Vogelsangs als erste, speziell für Frauen eingerichtete  Lungenheilstätte Deutschlands (1899) bis zu ihrer Umwandlung zum Fachkrankenhaus mit  den Abteilungen Thoraxchirurgie, Rheumatologie, Urologie, Orthopädie und Anästhesiologie (ab 1969) gesammelt. 
+Seit der Gründung der "Medizinhistorischen Sammlung Gommern-Vogelsang e.V." im Jahr 2002 wurden Gerätschaften, Literatur und Bilddokumente aus der Zeit der Gründung der Heilstätte als erste, speziell für Frauen eingerichtete Lungenheilstätte Deutschlands (1899) bis zu ihrer Umwandlung zum Fachkrankenhaus mit den Abteilungen Thoraxchirurgie, Rheumatologie, Urologie, Orthopädie und Anästhesiologie (ab 1969) gesammelt. 
 
 Die Biografien der Gründer, Sophie und Karl Heinrich von Boetticher, die der früheren Chefärzte, die Entwicklung der Einrichtung einschließlich der Folgeinstitutionen erschienen 2004 als Buch:
 
