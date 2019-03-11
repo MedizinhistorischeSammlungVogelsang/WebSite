@@ -10,4 +10,4 @@ Die Website befindet sich noch im Aufbau. Vielen Dank für Ihre Geduld.
 
 
 - A) Bücher
-- B) Artikel (WIR (Gommern Magazin), "Webgereiter"?)
+- B) Artikel (WIR (Ortszeitschrift Gommern), "Wegbereiter")
