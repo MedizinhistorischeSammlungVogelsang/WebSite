@@ -40,7 +40,7 @@ Der Verein verwendet auf seine Angeboten keine "Cookies", keine
 Zugriff auf das sogenannte "WebServer Logging" des Hosting Providers.
 
 Bei jeglichen Fragen oder Hinweisen wenden Sie sich bitte jederzeit an die 
-Verantwortliche Frau Katrin Richert, mhs@medigreif-fachkrankenhaus-vogelsang.de.
+Verantwortliche Frau Katrin Richert, VGM.MHS@helios-gesundheit.de.
 
 
 ### Website Theme
