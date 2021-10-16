@@ -7,9 +7,9 @@ title: Impressum
 
 | :------------------------------- |:--- |
 | Angaben gemäß § 5 TMG:           | Medizinhistorische Sammlung Gommern-Vogelsang e.V.<br>Sophie-von-Boetticher-Str. 1<br>39245 Gommern |
-| Vertretungsberechtigte Personen: | Prof. Dr. Wolfgang Keitel |
-| Kontakt:                         | Telefon: 039200 - 67295<br>E-Mail: mhs@medigreif-fachkrankenhaus-vogelsang.de|
-| Registereintrag:                 | VR 382 Amtsgericht Burg |
+| Vertretungsberechtigte Personen: | Prof. Dr. Eugen Feist |
+| Kontakt:                         | Telefon: 039200 - 67295<br>E-Mail: VGM.MHS@helios-gesundheit.de |
+| Registereintrag:                 | VR VR 50382 Amtsgericht Stendal |
 | Steuernummer:                    | TODO |
 | Inhaltlich Verantwortlicher gemäß § 55 Abs. 2 RStV: | Frau Katrin Richert<br>Medizinhistorische Sammlung Gommern-Vogelsang e.V.<br>Sophie-von-Boetticher-Str. 1<br>39245 Gommern |
 
