@@ -13,4 +13,4 @@ Die Ausstellung befindet sich in den Vereinsräumen im Wirtschaftsgebäude unter
 
 Öffnungszeiten der Ausstellung: Montag 14.00 Uhr bis 16.00 Uhr.
 
-Für Interessierte ist die Besichtigung auch außerhalb dieser Zeit möglich. Dazu wird um telefonische Voranmeldung bei Prof. Dr. Keitel unter 0391 9906101 gebeten.
+Für Interessierte ist die Besichtigung auch außerhalb dieser Zeit möglich. Dazu wird um Voranmeldung per E-Mail: VGM.MHS@helios-gesundheit.de gebeten.
