@@ -17,10 +17,8 @@ Die Biografien der Gründer, Sophie und Karl Heinrich von Boetticher, die der fr
 >  „Ein Krankenhaus erzählt - Geschichten der Klinik Vogelsang".
   [Amazon](https://www.amazon.de/Ein-Krankenhaus-erzählt-Geschichten-Vogelsang/dp/3899230647)
 
-Die MEDIGREIF Unternehmensgruppe, welche 1999 die Einrichtung übernahm und damit vor 
-der drohenden Schließung rettete, stellt dem Verein die vier Ausstellungs- und drei 
-Archivräume von zusammen 165 m2 unentgeltlich zur Verfügung und unterstützt den 
-Verein auch finanziell.
+Die Klinik stellt dem Verein die Ausstellungsräume von ca. 165m² unentgeltlich zur Verfügung und 
+unterstützt den Verein auch finanziell.
 
 ### Archiv der Deutschen Gesellschaft für Rheumatologie
 
