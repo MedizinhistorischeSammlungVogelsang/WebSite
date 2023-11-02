@@ -11,6 +11,6 @@ Die Medizinhistorische Sammlung Gommern-Vogelsang e.V. wurde 2002 gegründet. Di
 
 Die Ausstellung befindet sich in den Vereinsräumen im Wirtschaftsgebäude unter dem Speisesaal des Fachkrankenhauses und ist über eine Außentreppe zu erreichen.
 
-Öffnungszeiten der Ausstellung: Montag 14.00 Uhr bis 16.00 Uhr.
+Öffnungszeiten der Ausstellung: Donnerstag 14.00 Uhr bis 16.00 Uhr.
 
 Für Interessierte ist die Besichtigung auch außerhalb dieser Zeit möglich. Dazu wird um Voranmeldung per E-Mail: VGM.MHS@helios-gesundheit.de gebeten.
