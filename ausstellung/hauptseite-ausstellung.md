@@ -14,7 +14,7 @@ subtitle: Die Ausstellung der MHS
 
 ### Öffnungszeiten und Anschrift
 
-Die Vereinsräume sind jeweils montags zwischen 14 und 16 Uhr für die Öffentlichkeit zugänglich. Auch außerhalb dieser Zeit ist nach Voranmeldung per E-Mail: VGM.MHS@helios-gesundheit.de eine Besichtigung für Interessierte möglich.
+Die Vereinsräume sind jeweils donnerstags zwischen 14 und 16 Uhr für die Öffentlichkeit zugänglich. Auch außerhalb dieser Zeit ist nach Voranmeldung per E-Mail: VGM.MHS@helios-gesundheit.de eine Besichtigung für Interessierte möglich.
 
 Der Verein ist für Sachspenden (ggf. auch gegen Entgelt), etwa in Form von älteren medizinischen Geräten oder von Literatur, besonders von Arztbiografien, dankbar.
 Einzelheiten können über die o.g. Rufnummer vereinbart werden.
