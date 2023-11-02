@@ -20,9 +20,6 @@ Die Biografien der Gründer, Sophie und Karl Heinrich von Boetticher, die der fr
 
 ### Archiv der Deutschen Gesellschaft für Rheumatologie
 
-<img src="../../img/mhs/prof-dr-fritz-schilling-mainz.png" 
-     title="Prof. Dr. Fritz Schilling (Mainz)"
-     align="right" width="30%" />
 
 Im Jahre 2007 wurde die MHS vom Vorstand der Deutschen Gesellschaft für 
 Rheumatologie (DGRh) gebeten, das Archiv der DGRh in ihren Räumen aufzubauen.
